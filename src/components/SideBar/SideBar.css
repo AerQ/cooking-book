@@ -1,0 +1,10 @@
+.side-bar_container {
+  display: flex;
+  flex-direction: column;
+  height: 10rem;
+}
+
+.side-bar_menu-list {
+  list-style-type: none;
+  margin: 1rem 0;
+}
